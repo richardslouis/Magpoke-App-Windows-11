@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-NQDOAVJ</Machine>
+    <WindowsUser>Richards Louis</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>db416726-a597-4f88-8120-937e53de9a95</PackageIdentityName>
+    <PackageIdentityPublisher>CN=BB7B72A7-44D7-4BE4-8610-6E59E2F1146B</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>28A4F1556B4AA65D6901D41AF530661D0CA89320F60A29A455BDD0E7EC7925A2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1362InfantLouisRichards.Magpoke_6.0.2204.0_x64__t8fw2476bzf4t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1362InfantLouisRichards.Magpoke_t8fw2476bzf4t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1362InfantLouisRichards.Magpoke</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB7B72A7-44D7-4BE4-8610-6E59E2F1146B</RegisteredPackagePublisher>
+    <RegisteredVersion>6.0.2204.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-24T14:45:20.683</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:59:27.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:59:07.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:58:53.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:58:38.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:57:52.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:53:03.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:53:26.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:53:16.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:52:52.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:31:47.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:37:22.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-125.png">
+      <PackagePath>Assets\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:37:47.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-150.png">
+      <PackagePath>Assets\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:50:59.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-200.png">
+      <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:51:00.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-400.png">
+      <PackagePath>Assets\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T17:03:02.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:38:15.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:38:45.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:38:31.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:38:07.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:38:00.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:30.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:30.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:23.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:23.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:02.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:02.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:11.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:11.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:51:55.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-125.png">
+      <PackagePath>Assets\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:52:19.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-150.png">
+      <PackagePath>Assets\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:52:08.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-200.png">
+      <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:51:41.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-400.png">
+      <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T15:50:49.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:40:29.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:40:14.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:40:01.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:52.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:39:45.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:23:00.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:23:33.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:23:20.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:22:49.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-10T16:31:57.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\css\font-awesome.min.css">
+      <PackagePath>Assets\www\assets\css\font-awesome.min.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\css\ie8.css">
+      <PackagePath>Assets\www\assets\css\ie8.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\css\images\1bg102.jpg">
+      <PackagePath>Assets\www\assets\css\images\1bg102.jpg</PackagePath>
+      <Modified>2017-06-24T14:40:55.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\css\images\arrow.svg">
+      <PackagePath>Assets\www\assets\css\images\arrow.svg</PackagePath>
+      <Modified>2017-06-24T14:40:55.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\css\images\bg102.jpg">
+      <PackagePath>Assets\www\assets\css\images\bg102.jpg</PackagePath>
+      <Modified>2017-06-24T14:40:55.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\css\main.css">
+      <PackagePath>Assets\www\assets\css\main.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\fonts\fontawesome-webfont.svg">
+      <PackagePath>Assets\www\assets\fonts\fontawesome-webfont.svg</PackagePath>
+      <Modified>2017-06-24T14:40:55.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\fonts\fontawesome-webfont.ttf">
+      <PackagePath>Assets\www\assets\fonts\fontawesome-webfont.ttf</PackagePath>
+      <Modified>2017-06-24T14:40:55.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\fonts\FontAwesome.otf">
+      <PackagePath>Assets\www\assets\fonts\FontAwesome.otf</PackagePath>
+      <Modified>2017-06-24T14:40:55.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\ie\backgroundsize.min.htc">
+      <PackagePath>Assets\www\assets\js\ie\backgroundsize.min.htc</PackagePath>
+      <Modified>2017-06-24T14:40:55.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\ie\html5shiv.js">
+      <PackagePath>Assets\www\assets\js\ie\html5shiv.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\ie\PIE.htc">
+      <PackagePath>Assets\www\assets\js\ie\PIE.htc</PackagePath>
+      <Modified>2017-06-24T14:40:55.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\ie\respond.min.js">
+      <PackagePath>Assets\www\assets\js\ie\respond.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\jquery.dropotron.min.js">
+      <PackagePath>Assets\www\assets\js\jquery.dropotron.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\jquery.min.js">
+      <PackagePath>Assets\www\assets\js\jquery.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\jquery.onvisible.min.js">
+      <PackagePath>Assets\www\assets\js\jquery.onvisible.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\jquery.scrolly.min.js">
+      <PackagePath>Assets\www\assets\js\jquery.scrolly.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\main.js">
+      <PackagePath>Assets\www\assets\js\main.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\skel.min.js">
+      <PackagePath>Assets\www\assets\js\skel.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\assets\js\util.js">
+      <PackagePath>Assets\www\assets\js\util.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\css\bootstrap.css">
+      <PackagePath>Assets\www\css\bootstrap.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\css\bootstrap.min.css">
+      <PackagePath>Assets\www\css\bootstrap.min.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\css\font-awesome.css">
+      <PackagePath>Assets\www\css\font-awesome.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\css\jquery.fancybox.min.css">
+      <PackagePath>Assets\www\css\jquery.fancybox.min.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\css\owl.carousel.css">
+      <PackagePath>Assets\www\css\owl.carousel.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\css\owl.theme.css">
+      <PackagePath>Assets\www\css\owl.theme.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\css\style.css">
+      <PackagePath>Assets\www\css\style.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\css\swiper.min.css">
+      <PackagePath>Assets\www\css\swiper.min.css</PackagePath>
+      <Modified>2017-06-24T14:40:55.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\fonts\fontawesome-webfont.svg">
+      <PackagePath>Assets\www\fonts\fontawesome-webfont.svg</PackagePath>
+      <Modified>2017-06-24T14:40:55.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\fonts\fontawesome-webfont.ttf">
+      <PackagePath>Assets\www\fonts\fontawesome-webfont.ttf</PackagePath>
+      <Modified>2017-06-24T14:40:55.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\fonts\FontAwesome.otf">
+      <PackagePath>Assets\www\fonts\FontAwesome.otf</PackagePath>
+      <Modified>2017-06-24T14:40:55.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>Assets\www\fonts\glyphicons-halflings-regular.svg</PackagePath>
+      <Modified>2017-06-24T14:40:55.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>Assets\www\fonts\glyphicons-halflings-regular.ttf</PackagePath>
+      <Modified>2017-06-24T14:40:55.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\images\bg102.jpg">
+      <PackagePath>Assets\www\images\bg102.jpg</PackagePath>
+      <Modified>2017-06-24T14:40:55.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\images\pic01.jpg">
+      <PackagePath>Assets\www\images\pic01.jpg</PackagePath>
+      <Modified>2017-06-24T14:40:55.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\images\pic02.jpg">
+      <PackagePath>Assets\www\images\pic02.jpg</PackagePath>
+      <Modified>2017-06-24T14:40:55.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\images\pic03.jpg">
+      <PackagePath>Assets\www\images\pic03.jpg</PackagePath>
+      <Modified>2017-06-24T14:40:55.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\images\slider\banner.jpg">
+      <PackagePath>Assets\www\images\slider\banner.jpg</PackagePath>
+      <Modified>2017-06-24T14:40:55.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\images\slider\mobile.png">
+      <PackagePath>Assets\www\images\slider\mobile.png</PackagePath>
+      <Modified>2017-06-24T14:40:55.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\index.html">
+      <PackagePath>Assets\www\index.html</PackagePath>
+      <Modified>2017-06-24T14:40:55.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\js\bootstrap.js">
+      <PackagePath>Assets\www\js\bootstrap.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\js\bootstrap.min.js">
+      <PackagePath>Assets\www\js\bootstrap.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\js\gmap.js">
+      <PackagePath>Assets\www\js\gmap.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\js\jquery.fancybox.min.js">
+      <PackagePath>Assets\www\js\jquery.fancybox.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\js\jquery.js">
+      <PackagePath>Assets\www\js\jquery.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\js\owl.carousel.js">
+      <PackagePath>Assets\www\js\owl.carousel.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\js\script.js">
+      <PackagePath>Assets\www\js\script.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\js\swiper.jquery.min.js">
+      <PackagePath>Assets\www\js\swiper.jquery.min.js</PackagePath>
+      <Modified>2017-06-24T14:40:55.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\offline.html">
+      <PackagePath>Assets\www\offline.html</PackagePath>
+      <Modified>2017-06-24T14:40:55.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Assets\www\proceed.html">
+      <PackagePath>Assets\www\proceed.html</PackagePath>
+      <Modified>2017-06-24T14:40:55.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-13T16:16:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Magpoke.dll">
+      <PackagePath>Magpoke.dll</PackagePath>
+      <Modified>2017-06-24T14:45:20.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Magpoke.exe">
+      <PackagePath>Magpoke.exe</PackagePath>
+      <Modified>2017-06-24T14:45:20.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\Magpoke.pdb">
+      <PackagePath>Magpoke.pdb</PackagePath>
+      <Modified>2017-06-24T14:45:20.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Magpoke\Magpoke\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-24T14:44:55.688</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
